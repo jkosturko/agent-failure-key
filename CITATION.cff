@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this catalog, please cite it as below."
+title: "An Identification Key for Agent Failures"
+authors:
+  - family-names: Kosturko
+    given-names: Jessica
+version: "1.0"
+date-released: 2026-08-21
+year: 2026
+url: "https://github.com/jkosturko/agent-failure-key"
+license: CC-BY-4.0
+abstract: >-
+  An identification key for 36 failure modes in AI-orchestrated agent
+  systems - the failures that appear when language models are wired to
+  tools, schedules, workflows, persistent state, and each other, and
+  that pass ordinary pass/fail checks. Built from logged incidents on
+  one continuously instrumented fleet and cross-referenced with current
+  academic research. A field guide, not an industry frequency survey.
