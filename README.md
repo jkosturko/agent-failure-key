@@ -10,6 +10,8 @@
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [github.com/jkosturko/agent-failure-key](https://github.com/jkosturko/agent-failure-key) · cite as Kosturko, J. (2026)
 
+Also available as a [PDF edition](https://github.com/jkosturko/agent-failure-key/releases/latest/download/agent-failure-key-v1.0.pdf) with bookmarks and clickable plates.
+
 </div>
 
 <div class="fk-frontmatter">
